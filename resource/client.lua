@@ -5,7 +5,7 @@ local SelectedPedWeapon = false
 local stop = true
 local usedScript = false
 local SyncedParticles = {}
-local weapon = GetHashKey("WEAPON_FIREEXTINGUISHER")
+local weapon = GetHashKey("WEAPON_HOSE")
 
 TriggerEvent('chat:addSuggestion', '/ldv', 'Sortir/Ranger votre énorme lance')
 
@@ -13,13 +13,13 @@ RegisterCommand("ldv",function()
     if HoseActivated then
         HoseActivated = false
         ButtonPressed = false
-        RemoveWeaponFromPed(PlayerPedId(),GetHashKey("WEAPON_FIREEXTINGUISHER"))
+        RemoveWeaponFromPed(PlayerPedId(),GetHashKey("WEAPON_HOSE"))
     else
         if not usedScript then    
             usedScript = true
         end
         HoseActivated = true
-        local weapon = GetHashKey("WEAPON_FIREEXTINGUISHER")
+        local weapon = GetHashKey("WEAPON_HOSE")
         local ped = PlayerPedId()
         GiveWeaponToPed(ped,weapon, 1000, false, false)
         SetCurrentPedWeapon(ped,weapon, true)
