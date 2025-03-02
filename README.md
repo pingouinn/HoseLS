@@ -1,17 +1,14 @@
 
 
 # HoseLS - London Studios
-**HoseLS** is a **FiveM** resource coded in **C#** providing a realistic firefighting experience featuring a custom hose model and water jet, allowing you to fully extinguish fires.
+**HoseLS** is a **FiveM** resource coded in **C#** ported to **LUA** by **PingouinTheDev** providing a realistic firefighting experience featuring a custom hose model and water jet, allowing you to fully extinguish fires.
+
 
 The included models have been created by Adam Fenton. We'd like to thank him for working with us.
 
 This plugin is made by **LondonStudios**, we have created a variety of releases including TaserFramework, SearchHandler, ActivateAlarm, SmartTester, SmartSounds, CustodyAlarm, SmartObservations and more!
 
 The hose is compatible with popular fire scripts and will extinguish fires.
-
-Join our Discord [here](https://discord.gg/AtPt9ND) for exclusive plugin previews.
-
-<a href="https://www.buymeacoffee.com/londonstudios" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 ![HoseLS](https://i.imgur.com/hVOIchW.png)
 
