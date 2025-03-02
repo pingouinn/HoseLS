@@ -6,7 +6,6 @@
 
 The included models have been created by Adam Fenton. We'd like to thank him for working with us.
 
-This plugin is made by **LondonStudios**, we have created a variety of releases including TaserFramework, SearchHandler, ActivateAlarm, SmartTester, SmartSounds, CustodyAlarm, SmartObservations and more!
 
 The hose is compatible with popular fire scripts and will extinguish fires.
 
